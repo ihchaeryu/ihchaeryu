@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 
 
 <!--
 **ihchaeryu/ihchaeryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ihchae Ryu! I'm studying computer science and industrial design in KAIST. 
+
+Currently interested in front-end developing, UX, and also HCI.
+
+<br>
+
+Here is my contact: ihchaeryu@kaist.ac.kr
+
+Email me freely :stuck_out_tongue_winking_eye:
