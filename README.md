@@ -22,5 +22,3 @@ Currently interested in front-end developing, UX, and also HCI.
 <br>
 
 Here is my contact: ihchaeryu@kaist.ac.kr
-
-Email me freely :stuck_out_tongue_winking_eye:
