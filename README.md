@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 I'm Ihchae Ryu! I'm studying computer science and industrial design in KAIST. 
 
 Currently interested in front-end developing, UX, and also HCI.
-
-<br>
-
-Here is my contact: ihchaeryu@kaist.ac.kr
